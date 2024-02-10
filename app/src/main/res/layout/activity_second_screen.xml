@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Second_Screen">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20dp"
+        android:text="This summer turned out to be very interesting for me. I have not traveled to some distant warm countries, I have not ridden elephants, I have not seen strange places. I spent part of the summer in the city, and in the second half of the summer I lived with my grandparents in the village. I don't like living in the city in the summer, it gets boring here. With the onset of summer, a lot of dust appears, the air becomes heavy, so you want to spend time away from the city.
+         Therefore, when the first weekend of the holidays came, my parents and my younger sister and I went to the zoo. Our zoo is very large, the animals are well cared for, so it doesn't smell at all. All the animals sit in large enclosures, they have plenty of space to run and take a walk.
+        Every season gives us many wonderful days, each of which is good and remarkable in its own way. A winter day is fresh frosty air, fun games in the yard with friends, hovering New Year's holidays. A day in spring is the awakening of nature from hibernation, the renewal of the environment. An autumn day is a farewell to warm weather, preparation for the cold weather. And in my story, I want to tell you about a summer day, because, it seems to me,
+        summer is almost everyone's favorite time of the year." />
+
+    </ScrollView>
+</LinearLayout>
